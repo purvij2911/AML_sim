@@ -1,4 +1,4 @@
-# Sentinels Case assignment Data Science / Data Engineering / ML Engineering
+#  assignment Data Science / Data Engineering / ML Engineering
 
 ## Setup
 The setup assumes you have Anaconda or Miniconda installed. Other envs will be similar, the base requirements are python3.8 and pip.
